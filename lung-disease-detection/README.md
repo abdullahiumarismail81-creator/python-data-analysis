@@ -4,6 +4,8 @@
 ## Project Overview
 
 This project uses Deep Learning and MobileNet architecture to classify lung X-ray images into different categories of lung conditions.
+Note:
+The trained model file was excluded from the repository because of GitHub upload size limitations.
 
 ## Disease Classes
 
